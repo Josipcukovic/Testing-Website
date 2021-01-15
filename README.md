@@ -10,13 +10,13 @@ Test cases:
 
 *Check if body of page is displayed. If it is not displayed then page is not loaded correctly.
 
-*Search for and item with search box.Test works in a way that input is sent in search box and then search box is submitted. After that, results are shown.
+*Search for item with search box.Test works in a way that input is sent in search box and then search box is submitted. After that, results are shown.
 
 *Click "Quick view button". This button should, when clicked show us a pop-up that contains all informations about product we're interested in. In this test quick view button is clicked and then it is looking if the pop-up is shown or not, if the pop-up is shown then button for closing pop-up is clicked and test is successful.
 
-*Add item into cart. When user wants to buy some product he must add it to a cart and later on he goes to a payment. In this test item is added to a cart, and then number of items in cart that is displayed must be 1 because only 1 item has been added
+*Add item into cart. When user wants to buy some product he must add it to a cart and later on he goes to a payment. In this test item is added to a cart, and then number of items in cart that is displayed must be 1 because only 1 item has been added.
 
-*Test autocomplete of search box. When user types partial item name the text box should suggest to a user some items that contain partial name user typed in their names. Test works in a way that firstly partial item name is sent to a search box then first item that has been suggested is clicked. Test will be successful if clicked item contains partial item name that has been sent to a search box.
+*Test autocomplete of search box. When user types partial item name the text box should suggest to a user some items that contain partial name user typed in their names. Test works in a way that partial item name is sent to a search box then first item that has been suggested is clicked. Test will be successful if clicked item contains partial item name that has been sent to a search box.
 
 *Choose number of items to be shown. When user wants to change the number of items displayed after searching, user must click on drop down button and choose one of the options. On this website options are 12,24 or 36 items that can be displayed. Test works in a way that firstly some item is being searched, and after that option that will show 12 items is selected. Then the count of items that are displayed is being retrieved. Test is successful if size of elements in a list is equal to selected option, in this case 12.
 
