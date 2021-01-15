@@ -4,7 +4,7 @@ For purpose of this project, I have selected an example of testing a website. Th
 
 In this repository you can find few test cases which can be applied for UI testing of links website.
 
-Tests are written in Java programming language using IntelliJ IDEA.
+Tests are written in Java programming language using IntelliJ IDEA. This project is Maven project, also selenium and testng had been used. 
 
 Test cases:
 
