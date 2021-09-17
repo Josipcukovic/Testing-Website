@@ -1,4 +1,4 @@
-# MTTPP-Testing the Links website
+# Testing the Links website
 
 For purpose of this project, I have selected an example of testing a website. The website is an official webshop and url is : https://www.links.hr/hr/.
 
